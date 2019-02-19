@@ -1,0 +1,84 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background-color: hsl(50, 97%, 80%);
+	width: 100%;
+	height: 100%;
+}
+
+.box-1{
+	align-content: left;
+	margin-left: 1vw;
+	margin-top: 2vh;	
+}
+#pic-1{
+	height: 300px;
+	width: 300px;
+}
+#pic-2 {
+	height: 300px;
+	width: 300px;
+}
+#pic-3 {
+	height: 300px;
+	width: 150px;
+}
+#pic-4 {
+	height: 300px;
+	width: 150px;
+}
+#pic-5 {
+	height: 300px;
+	width: 150px;
+}
+#pic-6 {
+	height: 300px;
+	width: 150px;
+}
+#pic-7 {
+	height: 100px;
+	width: 95vw;
+}
+#pic-8 {
+	height: 300px;
+	width: 400px;
+}
+#pic-9 {
+	height: 300px;
+	width: 300px;
+}
+#pic-10 {
+	height: 300px;
+	width: 300px;
+}
+#pic-11 {
+	height: 300px;
+	width: 200px;
+}
+#pic-12 {
+	height: 100px;
+	width: 95vw;
+}
+#pic-13 {
+	height: 300px;
+	width: 300px;
+}
+#pic-14 {
+	height: 300px;
+	width: 150px;
+}
+#pic-15 {
+	height: 300px;
+	width: 150px;
+}
+#pic-16 {
+	height: 300px;
+	width: 300px;
+}
+#pic-17 {
+	height: 300px;
+	width: 300px;
+}
