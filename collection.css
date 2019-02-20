@@ -25,14 +25,13 @@ a:hover{
 	font-size: 90px;
 	text-align: center;
 	margin-top: 10vh;
-	margin-left: 1vw;
 }
 .box-2{
 	font-family: 'Oswald', sans-serif;
 	font-size: 50px;
 	text-align: left;
 	display: inline-block;
-	margin-left: 20vw;
+	margin-left: 15vw;
 }
 .box-3{
 	font-family: 'Oswald', sans-serif;
