@@ -4,7 +4,8 @@
 }
 
 body{
-	background-color: hsl(50, 97%, 80%);
+	background-color: lightgrey;
+
 }
 
 a:visited, a:link, a:active{
@@ -26,28 +27,64 @@ a:hover{
 	text-align: center;
 	margin-top: 10vh;
 }
-.box-2{
-	font-family: 'Oswald', sans-serif;
-	font-size: 50px;
-	text-align: left;
+.column-1
+{
+	background-color: black;
+	margin-left: 5vh;
+	width: 100vh;
 	display: inline-block;
-	margin-left: 15vw;
 }
-.box-3{
-	font-family: 'Oswald', sans-serif;
-	font-size: 50px;
-	text-align: left;
+#pic-1{
+	width: 80vh;
+	margin-left: 5vh;
+	height: 400px;
+}
+#pic-2{
+	width: 80vh;
+	margin-left: 5vh;
+	height: 400px;
+}
+.column-2
+{
+	background-color: white;
+	margin-left: -1vh;
+	width: 100vh;
 	display: inline-block;
-	margin-left: 1vw;
+	content: center;
 }
-.box-4{
-	font-family: 'Oswald', sans-serif;
-	font-size: 50px;
-	text-align: left;
+#pic-3{
+	width: 80vh;
+	margin-left: 10vh;
+	height: 400px;
+}
+#pic-4{
+	width: 80vh;
+	margin-left: 10vh;
+	height: 400px;
+}
+.column-1:hover{
+	background-color: white;
+	transition-delay: .3s;
+}
+.column-2:hover{
+	background-color: black;
+	transition-delay: .3s;
+}
+/*.column-3
+{
+	background-color: white;
+	margin-left: -1vh;
+	width: 100vh;
 	display: inline-block;
-	margin-left: 1vw;
+	content: center;
 }
-
-
-
-
+#pic-5{
+	width: 80vh;
+	margin-left: 10vh;
+	height: 400px;
+}
+#pic-6{
+	width: 80vh;
+	margin-left: 10vh;
+	height: 400px;
+}*/
